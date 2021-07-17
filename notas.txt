@@ -1,0 +1,6 @@
+para realizar un sitio web responsive ya existen diferentes formas o patrones
+
+se pueden lograr con css grid o flexbox
+
+Dos columnas Iguales---css grid y flex box
+
